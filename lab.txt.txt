@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 hai
-hello
-=======
-
->>>>>>> mastergit 

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hai
 hello
 vvce
+=======
+
+>>>>>>> mastergit 
